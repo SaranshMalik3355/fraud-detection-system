@@ -71,6 +71,26 @@ TransactionID
 
 ---
 
+# 📥 Dataset Download
+
+The datasets used in this project are publicly available from the IEEE-CIS Fraud Detection competition on Kaggle.
+
+Download datasets from:
+
+https://www.kaggle.com/competitions/ieee-fraud-detection/data
+
+Required files:
+- train_transaction.csv
+- train_identity.csv
+
+After downloading, place both files inside the `data/` folder:
+
+```bash
+data/
+├── train_transaction.csv
+└── train_identity.csv
+```
+
 # ⚙️ Technologies Used
 
 ## Programming Language
